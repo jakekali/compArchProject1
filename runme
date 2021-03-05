@@ -1,0 +1,7 @@
+#!/bin/bash
+
+curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/jag.s --output jag.s
+curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/makefile --output makefile
+chmod 744 makefile
+make
+./jag.out
