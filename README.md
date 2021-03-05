@@ -13,6 +13,6 @@ Run the Makefile in the directory downloaded:
 ```
 Run the exectutable generated: 
 ```bash
-./makefile
+./jag.out
 ```
 d
