@@ -7,7 +7,7 @@ message1: .asciz "Enter first string: "
 message2: .asciz "Enter second string: "
 
 .balign 4
-message3: .asciz "Your string is '%s'.\n"
+message3: .asciz "%s \n"
 
 .balign 4
 messageTooLong: .asciz "ERROR: Your message is too long.\n"
