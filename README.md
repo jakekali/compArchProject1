@@ -1,1 +1,1 @@
-# compArchProject1
+# Computer Architecture Project 1
