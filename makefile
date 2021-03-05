@@ -1,10 +1,4 @@
- #Makefile
-.PHONY: clean
-
 all: jag.out
 
-first.out: jag.S
-        arm-linux-gnueabi-gcc $< -o $@ -ggdb3 -static
-
-clean:
-        rm -f jag.out
+jag.out: jag.S
+	arm-linux-gnueabi-gcc jag.S -o jag.out -static
