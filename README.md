@@ -5,7 +5,7 @@ curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/jag.s --ou
 ```
 Download the make file from github using curl: 
 ```bash
-curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/makefile
+curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/makefile --output makefile
 ```
 Run the Makefile in the directory downloaded: 
 ```bash
