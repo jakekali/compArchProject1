@@ -156,7 +156,7 @@ end2:
         mov r0, #0
         str r0, [r1]
 
-        // Put the first string at the end of the first string
+        // Put the second string at the end of the first string
         ldr r0, address_of_string1
         ldr r1, address_of_return
         ldr r1, [r1]
