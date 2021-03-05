@@ -1,7 +1,7 @@
 # Computer Architecture Project 1
 Download the assembly file from github using curl:
 ```bash
-curl -o https://raw.githubusercontent.com/jakekali/compArchProject1/main/jag.s
+curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/jag.s --output jag.s
 ```
 Download the make file from github using curl: 
 ```bash
