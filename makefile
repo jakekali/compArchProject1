@@ -1,4 +1,4 @@
- Makefile
+ #Makefile
 .PHONY: clean
 
 all: jag.out
