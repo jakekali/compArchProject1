@@ -9,7 +9,7 @@ curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/makefile -
 ```
 Run the Makefile in the directory downloaded: 
 ```bash
-makefile
+./makefile
 ```
 Run the exectutable generated: 
 ```bash
