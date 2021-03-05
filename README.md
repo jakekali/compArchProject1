@@ -1,4 +1,20 @@
 # Computer Architecture Project 1
+
+# Installation Method 1
+Download the bash script using curl: 
+```bash
+curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/runme --output runme
+```
+Change the permissions on the bash script file - runme
+```bash
+chmod 744 runme
+```
+Run the runme bash file: 
+```bash
+./runme
+```
+
+# Installation Method 2
 Download the assembly file from github using curl:
 ```bash
 curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/jag.s --output jag.s
