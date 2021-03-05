@@ -1,6 +1,6 @@
 # Computer Architecture Project 1
 
-## Installation Method 1
+## Installation Method 1 (Recommended) 
 1. Download the bash script using curl: 
 ```bash
 curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/runme --output runme
