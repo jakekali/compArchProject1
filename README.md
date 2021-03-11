@@ -39,3 +39,5 @@ make
 ./jag.out
 ```
 
+## Design Document
+The Design Document can be found [here](../blob/main/Design%20Document%20-%20Project%20%231.pdf) 
