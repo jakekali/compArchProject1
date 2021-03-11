@@ -40,4 +40,4 @@ make
 ```
 
 ## Design Document
-The Design Document can be found [here](../blob/main/Design%20Document%20-%20Project%20%231.pdf) 
+The Design Document can be found [here](../main/Design%20Document%20-%20Project%20%231.pdf) 
