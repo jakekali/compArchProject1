@@ -10,7 +10,7 @@ curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/runme --ou
 ```
 2. Change the permissions on the bash script file - runme
 ```bash
-chmod 744 runme
+chmod +x runme
 ```
 3. Run the runme bash file: 
 ```bash
@@ -18,23 +18,19 @@ chmod 744 runme
 ```
 
 ## Installation Method 2
-1. Download the assembly file from github using curl:
+1. Download the assembly file from GitHub using curl:
 ```bash
 curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/jag.s --output jag.s
 ```
-2. Download the make file from github using curl: 
+2. Download the Makefile from GitHub using curl: 
 ```bash
-curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/makefile --output makefile
+curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/Makefile --output Makefile
 ```
-3. Change the permissions on the makefile: 
-```bash
-chmod 744 makefile
-```
-4. Run the Makefile in the directory downloaded: (it might throw an error, but it can ignored, the file still generates)
+3. Run the Makefile in the directory downloaded: (it might throw an error, but it can ignored, the file still generates)
 ```bash
 make
 ```
-5. Run the exectutable generated: 
+4. Run the exectutable generated: 
 ```bash
 ./jag.out
 ```
