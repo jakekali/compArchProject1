@@ -30,7 +30,7 @@ curl https://raw.githubusercontent.com/jakekali/compArchProject1/main/makefile -
 ```bash
 chmod 744 makefile
 ```
-4. Run the Makefile in the directory downloaded: (it might throw an error, but u can ignore it, the file still generates)
+4. Run the Makefile in the directory downloaded: (it might throw an error, but it can ignored, the file still generates)
 ```bash
 make
 ```
